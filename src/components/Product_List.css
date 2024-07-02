@@ -1,0 +1,50 @@
+#cont {
+  padding: 60px;
+  margin: 4px;
+  max-width: auto;
+  padding-top: 0px;
+  /* text-align: left; */
+}
+
+#box {
+  display: flex;
+  /* flex-direction: column; */
+}
+
+h2 {
+  padding-left: 40px;
+  color: brown;
+  font-size: 40px;
+}
+
+label {
+  font-weight: bold;
+  font-size: 18px;
+  color: brown;
+}
+
+b {
+  font-weight: 700;
+  font-size: 14px;
+  color: rgb(83, 83, 83);
+}
+
+p {
+  margin: 5px;
+  font-size: 15px;
+}
+
+span {
+  margin-top: 25px;
+}
+
+li {
+  display: inline-block;
+}
+
+#lbl {
+  margin-left: 50%;
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 10px;
+}

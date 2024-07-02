@@ -1,0 +1,30 @@
+#nav {
+  text-align: left;
+  color: brown;
+  text-align: left;
+  box-shadow: 3px 2px 4px rgba(0.1, 0.1, 0.1, 0.1);
+  padding: 4px;
+  margin-bottom: 40px;
+  text-decoration: none;
+  color: inherit;
+}
+
+li {
+  display: inline-block;
+  padding: 6px;
+  color: brown;
+  /* margin: 9px; */
+  font-size: larger;
+  text-decoration: none;
+  color: inherit;
+  font-weight: 500;
+}
+
+#nav li:hover {
+  background: #f6eaea;
+  padding: 6px;
+}
+
+#nav li:active {
+  background: #f6eaea;
+}
