@@ -28,6 +28,6 @@ A full-stack project management application built with the MERN stack. This app 
 Clone the repository and install depen2dencies:
 
 ```bash
-git clone https://github.com/girijakangutkar/project-management-app.git
+git clone https://github.com/girijakangutkar/cloudinary-multer-frontend.git
 cd project-management-app
 npm install
